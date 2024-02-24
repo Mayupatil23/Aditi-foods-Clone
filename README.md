@@ -1,6 +1,6 @@
 # Clone-Website
 
-Aditi Foods Clone Project
+<h2>Aditi Foods Clone Project</h2>
 
 About the Project:
 The Aditi Foods Clone project is a recreation of the popular food delivery platform, Aditi Foods. Developed using HTML and CSS this project aims to replicate the core features and user interface of Aditi Fooda, offering users a simulated experience of ordering food online.
